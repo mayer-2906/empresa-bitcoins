@@ -1,0 +1,57 @@
+.container-usuario
+{
+  margin: auto;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.container-menu{
+  margin: auto;
+  margin-top: 15%;
+  width: 75.28%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  border-bottom: 1px solid #DEDEDE;
+}
+
+.container-title{
+  grid-column: 1/2;
+  display: flex;
+  justify-content:flex-start;
+  align-items: center;
+}
+
+.title{
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 23px;
+
+}
+
+.container-agregarmoneda{
+  grid-column: 2/3;
+  display: flex;
+  justify-content:flex-end;
+  align-items: center;
+}
+.agregar-moneda{
+  width: 186px;
+  height: 38px;
+  background: #FDDA24;
+  border-radius: 60px;
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: -0.3px;
+  color: #292929;
+  padding: 2px 20px;
+}
+
+table{
+  width: 75.28%;
+}

@@ -1,0 +1,64 @@
+.container-login{
+  margin: auto;
+  width: 61%;
+  height: 66%;
+  margin-top: 23.05%;
+  margin-bottom: 23.05%;
+  background: #FFFFFF;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  display: flex;
+  flex-direction: column;
+}
+
+.sing-in{
+  margin-top: 13.21%;
+  margin-left: 15.69%;
+}
+
+.line{
+  width: 69.25%;
+  height: 0px;
+  margin-left: 15.69%;
+  margin-top: 3.74%;
+  border: 1px solid #DEDEDE;
+}
+
+.input-datos{
+  margin: auto;
+  margin-top: 12.03%;
+  width: 47.54%;
+  height: 14.2%;
+  padding-left: 5%;
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  letter-spacing: -0.3px;
+  color: #BCBDC0;
+  border: none;
+  border-bottom: 1px solid #2C2A29;
+  margin-bottom: 0px;
+}
+
+.password{
+  margin-top: 4.14%;
+}
+
+.button-sign-in{
+  margin: auto;
+  height: 7.5%;
+  margin-top: 11.83%;
+  margin-bottom: 14.20%;
+  background: #FDDA24;
+  border-radius: 60px;
+  padding: 2px 20px;
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 21px;
+  text-align: center;
+  letter-spacing: -0.3px;
+  color: #292929;
+  border: none;
+}
